@@ -23,13 +23,8 @@ To get started with the API, follow these steps:
    ```bash
    git clone https://github.com/your-username/stateless-claim-management-api.git
 
-2.**Install dependencies:**
+2.**Install dependencies and start server**
 
-```bash
-cd stateless-claim-management-api
-npm install
-
-3.**Start the server:**
-
-```bash
-npm start
+   ```bash
+   npm i
+   npm start
